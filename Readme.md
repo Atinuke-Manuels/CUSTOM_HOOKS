@@ -16,7 +16,7 @@ This is a custom React hook that provides functionality for performing basic ari
 ```bash
 npm install use-math-counter
 
-- import use-math-counter into your app component where you want to use it
+- import useMathCounter into your app component where you want to use it
 - access the addition, subtraction, division, multiplication and reset functions embedded.
 **see sample usage below**
 
