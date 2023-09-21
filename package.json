@@ -1,0 +1,26 @@
+{
+  "name": "use-math-counter",
+  "version": "1.0.2",
+  "description": "This is a custom React hook that provides functionality for performing basic arithmetic operations (addition, subtraction, multiplication, division) on a numeric value and a function to reset the value to an initial state. It encapsulates these operations, making it easy to manage and manipulate numeric values within React components.",
+  "main": "UseMathCounter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Atinuke-Manuels/CUSTOM_HOOKS.git"
+  },
+  "keywords": [
+    "addition",
+    "subtraction",
+    "multiplication",
+    "division",
+    "reset"
+  ],
+  "author": "Atinuke Adeshola-Manuels",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Atinuke-Manuels/CUSTOM_HOOKS/issues"
+  },
+  "homepage": "https://github.com/Atinuke-Manuels/CUSTOM_HOOKS#readme"
+}
