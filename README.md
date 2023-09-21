@@ -40,7 +40,7 @@ function MyComponent() {
       <button onClick={() => customHook.subtract(5)}>Subtract 5</button>
       <button onClick={() => customHook.multiply(2)}>Multiply by 2</button>
       <button onClick={() => customHook.divide(2)}>Divide by 2</button>
-      <button onClick={() => customHook.reset()}>Reset</button>
+      <button onClick={() => customHook.reset(0)}>Reset</button>
     </div>
   );
 }
